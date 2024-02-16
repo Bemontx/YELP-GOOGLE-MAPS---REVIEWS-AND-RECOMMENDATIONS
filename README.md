@@ -55,7 +55,7 @@ Clonar el repositorio desde GitHub:
 
 ```bash
   git clone https://github.com/Bemontx/YELP-GOOGLE-MAPS---REVIEWS-AND-RECOMMENDATIONS
-  cd my-project
+  cd YELP-GOOGLE-MAPS---REVIEWS-AND-RECOMMENDATIONS
 ```
     
 ## Ejecución
